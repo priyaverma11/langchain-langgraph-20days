@@ -1,7 +1,4 @@
-# ============================================================
-# File: day09_rag.py
-# Day 9 — RAG Part 1: Document Loading & Chunking
-# ============================================================
+
 
 from langchain_community.document_loaders import TextLoader
 from langchain_huggingface import HuggingFaceEmbeddings
