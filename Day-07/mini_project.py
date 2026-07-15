@@ -1,6 +1,4 @@
 # mini_project.py — Day 7
-# Customer Support Router
-# Combines routing + parallel analysis + custom logic
 
 from langchain_anthropic import ChatAnthropic
 from langchain_core.prompts import ChatPromptTemplate
